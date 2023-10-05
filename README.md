@@ -15,3 +15,17 @@
 4) Feature Engineering & Feature Transformation
 5) Model Traning & Model Selection
 6) Testing & Optimizing
+
+
+# Skills
+
+- Programming Languages - Python
+- Libraries & Frameworks - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- Data Science - Data Collection, Data Wrangling, Data Visualization, Exploratory Data Analysis, Feature Engineering, Feature
+- Selection, Machine Learning(Regression, Classification, Clustering), Model Evaluation
+
+# Algorithms 
+- Logistic Regression ,SVM,
+Decision Tree, Random Forest, K-NN ,
+XGBoost , Ada Boost ,Gradient Boost ,Naive
+Bayes
